@@ -1,1 +1,14 @@
-This is a beautiful world...
+git init
+git add
+git commit
+git push origin master
+git status
+git diff
+git log
+git checkout
+git rm
+git pull origin master
+git branch
+git merge
+git tag
+git stash
